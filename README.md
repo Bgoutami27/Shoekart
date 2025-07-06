@@ -4,3 +4,11 @@
 
 ![image](https://github.com/user-attachments/assets/d60387d3-ba93-4d41-abd5-5a71fbb776f0)
 
+## Install backend dependencies
+npm install
+
+## Dependencies for Image Upload
+npm install multer path
+
+## Run the server
+node server.js
